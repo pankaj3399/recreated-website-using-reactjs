@@ -1,2 +1,2 @@
 # recreated-website-using-reactjs
- A dummmy website
+ A dummy website
